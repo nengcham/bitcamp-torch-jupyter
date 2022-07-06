@@ -1,4 +1,8 @@
-data/
+gan/data/
+
+nlp/content
+
+nlp/save
 
 *.png
 
