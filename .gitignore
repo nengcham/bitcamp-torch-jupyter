@@ -2,7 +2,9 @@ gan/data/
 
 nlp/content
 
-nlp/save
+nlp/data
+
+nlp/.cache
 
 *.png
 
