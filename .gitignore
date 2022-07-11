@@ -1,5 +1,19 @@
 gan/data/
 
+gan/images/
+
+gan/__pycache__/
+
+gan/boundaries/
+
+gan/save/
+
+gan/save_image/
+
+gan/weights/
+
+gan/save/
+
 nlp/content
 
 nlp/data
